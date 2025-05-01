@@ -21,7 +21,7 @@ This project shows how to use Python with SQLite to analyze online course sales.
 
 ## Files Included
 
-- `course_sales_analysis.py` — Python script for the analysis
+- `Task-7.py` — Python script for the analysis
 - `barchart.png and table.png` — saved revenue bar chart
 - `README.md` — this documentation
 
